@@ -45,14 +45,9 @@ type UserSystemInfo struct {
 
 func main() {
 	//テストコミット1
-
-	// テストコメント
-
-
-
-   // テストコメント4
-
-
+	
+	//テストコミット2
+	
 	
 	host := os.Getenv("MYSQL_HOST")
 	if host == "" {
