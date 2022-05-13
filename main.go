@@ -50,8 +50,9 @@ func main() {
 
 
 
-	//マージテスト
-	
+   // テストコメント4
+
+
 	
 	host := os.Getenv("MYSQL_HOST")
 	if host == "" {
